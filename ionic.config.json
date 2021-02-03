@@ -1,0 +1,7 @@
+{
+  "name": "countblessings",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
